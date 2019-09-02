@@ -50,19 +50,17 @@ li a:hover {
   background-color: #82BFAC;
 }
 
-
-
-
 body {
   font-family: Arial, sans-serif;
-  background:
+  background-color: #82D4BB
+  background-size: cover;
   height: 100vh;
 }
 
 h1 {
   text-align: center;
   font-family: Tahoma, Arial, sans-serif;
-  color:#243634;
+  color: #06D85F;
   margin: 80px 0;
 }
 
@@ -98,12 +96,12 @@ h1 {
   left: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.7);
-  transition: opacity 0ms;
+  transition: opacity 500ms;
   visibility: hidden;
   opacity: 0;
 }
 .overlay:target {
-  visibility: hidden;
+  visibility: visible;
   opacity: 1;
 }
 
@@ -120,7 +118,7 @@ h1 {
 .popup h2 {
   margin-top: 0;
   color: #333;
-  font-family: sans-serif;
+  font-family: Tahoma, Arial, sans-serif;
 }
 .popup .close {
   position: absolute;
@@ -133,7 +131,7 @@ h1 {
   color: #333;
 }
 .popup .close:hover {
-  color: #06D85F;
+  color: whitesmoke;
 }
 .popup .content {
   max-height: 30%;
