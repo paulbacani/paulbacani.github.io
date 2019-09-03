@@ -16,7 +16,8 @@
         li { margin: 0 0 0 20px; }
         #main { width: 390px; float: left; }
     
-        #sidebar { width: 190px; position: fixed; left: 50%; top: 180px; margin: 110px; }
+        #sidebar { width: 190px; position: fixed; left: 80%; top: 180px; margin: 110px; }
+
 
 
 hl {
