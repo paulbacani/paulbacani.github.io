@@ -9,7 +9,7 @@ p { text-align: left}
 
 	
     	 { margin: 0; padding: 0; }
-        body { font: 14px/1.4  serif; }
+        body { font: 14px/1.4  serif;background-color: #000027 }
         #page-wrap { width: 600px; margin: 15px auto; position: relative; }
         p {background-color: #000027; margin: 0 0 15px 0; }
         p { background: #90CCC7; padding: 10px; }
@@ -17,14 +17,14 @@ p { text-align: left}
         li { margin: 0 0 0 20px; }
         #main { width: 390px; float: left; }
     
-        #sidebar { width: 190px; position: fixed; left: 80%; top: 180px; margin: 110px; }
+        #sidebar { width: 190px; position: fixed; left: 80%; top: 180px; margin: 110px;background-color: 000027 }
 
 
 
 hl {
   font-family: sans-serif;
-  font-size:45px; margin: 1000px;padding: inherit;
-    background-color: #82D4BB; text-align: center
+  font-size:45px; margin: 100px;
+    background-color: #45AF9A; text-align: center
 }
 
 ul {
