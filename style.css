@@ -4,14 +4,14 @@
 <style>
 
 p { text-align: left}
-hl2 { margin: 30px; text-align: left;}
+#page2title { margin: 50px; text-align: left;}
 
 
 	
     	 { margin: 0; padding: 0; }
         body { font: 14px/1.4  serif; }
         #page-wrap { width: 600px; margin: 15px auto; position: relative; }
-        p {background-color: #BEF4F0; margin: 0 0 15px 0; }
+        p {background-color: #000027; margin: 0 0 15px 0; }
         p { background: #90CCC7; padding: 10px; }
         #sidebar ul { background: #90CCC7; padding: 10px; }
         li { margin: 0 0 0 20px; }
