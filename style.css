@@ -6,7 +6,7 @@
 p { text-align: left}
 #page2title { margin: 50px; text-align: left;}
 
-
+/* this part of code is for the sidebar on page 3 which is basically a nav bar but on the side of the screen that follows when you scroll*/ 
 	
     	 { margin: 0; padding: 0; }
         body { font: 14px/1.4  serif;background-color: #000027 }
@@ -19,7 +19,7 @@ p { text-align: left}
     
         #sidebar { width: 190px; position: fixed; left: 80%; top: 180px; margin: 110px;background-color: 000027 }
 
-/*this part is mostly for page4 */
+/*this part is mostly for page4. its almost entirely for the popup and the window that pops up when you click on the "click me" button */
 
 hl {
   font-family: sans-serif;
@@ -76,7 +76,7 @@ h1 {
   background-clip: padding-box;
   text-align: center;
 }
-
+/* this part of the css is for the actual popup window */
 .button {
   font-size: 1em;
   padding: 10px;
